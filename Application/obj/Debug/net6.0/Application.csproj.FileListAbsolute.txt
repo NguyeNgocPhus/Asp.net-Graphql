@@ -1,0 +1,15 @@
+D:\C#\GraphqlApi\Application\bin\Debug\net6.0\Application.deps.json
+D:\C#\GraphqlApi\Application\bin\Debug\net6.0\Application.dll
+D:\C#\GraphqlApi\Application\bin\Debug\net6.0\Application.pdb
+D:\C#\GraphqlApi\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\C#\GraphqlApi\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\GraphqlApi\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\C#\GraphqlApi\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\C#\GraphqlApi\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\C#\GraphqlApi\Application\obj\Debug\net6.0\Application.dll
+D:\C#\GraphqlApi\Application\obj\Debug\net6.0\refint\Application.dll
+D:\C#\GraphqlApi\Application\obj\Debug\net6.0\Application.pdb
+D:\C#\GraphqlApi\Application\obj\Debug\net6.0\ref\Application.dll
+D:\C#\GraphqlApi\Application\bin\Debug\net6.0\Core.dll
+D:\C#\GraphqlApi\Application\bin\Debug\net6.0\Core.pdb
+D:\C#\GraphqlApi\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
